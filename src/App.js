@@ -1,19 +1,19 @@
 
 import './App.css';
-import Nav from './components/Nav';
-import Header from './components/Header';
-import Main from './components/Main';
-import Footer from './components/Footer';
+import Nav from './Nav';
+import Header from './Header';
+import Main from './Main';
+import Footer from './Footer';
 
 
 function App() {
   return (
-      <>
+      <div className='app'>
       <Nav/>
       <Header/>
       <Main/>
       <Footer/>
-      </>
+      </div>
   );
 }
 
