@@ -1,0 +1,49 @@
+.header {
+    background-color: #495E57; /* Background color matching the color palette */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+  }
+  
+  .text-content {
+    color: white;
+  }
+  
+  h1 {
+    font-size: 40px;  /* Following the UI kit typography */
+    margin: 0;
+  }
+  
+  p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .logo {
+    width: 200px;      /* Set the width of the image */
+    height: 200px;     /* Set the height of the image */
+    object-fit: scale-down;  /* Ensures the image scales while maintaining its aspect ratio */
+  }
+  
+  .reserve-button {
+    background-color: #F4CE14; /* Button background from color palette */
+    color: #000000; /* Button text color */
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 16px; /* Rounded corners as per UI kit */
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  .reserve-button:hover {
+    background-color: #E5B00B; /* Slightly darker yellow on hover */
+  }
