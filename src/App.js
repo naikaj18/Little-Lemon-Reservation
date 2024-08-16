@@ -1,18 +1,14 @@
-import './styles/App.css';
-import Nav from './components/Nav/Nav';
-import Header from './components/Header/Header';
-import Footer from './components/Footer/Footer';
-import { Routes, Route } from 'react-router-dom';
-import HomePage from './pages/HomePage/HomePage';
-import BookingPage from './pages/BookingPage/BookingPage';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Main from './components/Main';
 
 function App() {
   return (
-    <div className='app'>
-      <Nav />
+    <>
       <Header />
+      <Main />
       <Footer />
-    </div>
+    </>
   );
 }
 
