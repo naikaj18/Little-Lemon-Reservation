@@ -22,7 +22,7 @@ const links = [
     ],
   },
   {
-    title: 'Availitbity',
+    title: 'Availability',
     items: [
       { text: 'Tues-Thurs: 12pm-10pm' },
       { text: 'Fri-Sun: 12pm-10pm' },

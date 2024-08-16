@@ -1,18 +1,18 @@
 const feedbacks = [
     {
-      name: 'Oliver',
+      name: 'Tom',
       img: 'https://unsplash.com/photos/6anudmpILw4/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mzh8fHBvcnRyYWl0fGVufDB8fHx8MTcyMDc3NTE3OXww&force=true&w=640',
       rating: 5,
       text: 'Best pizzas in town',
     },
     {
-      name: 'Sofia',
+      name: 'Janet',
       img: 'https://unsplash.com/photos/IF9TK5Uy-KI/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzIwNzc3OTg3fA&force=true&w=640',
       rating: 5,
       text: 'Little Lemon staff always go above and beyond. Quality food and professional serving.',
     },
     {
-      name: 'Hugo',
+      name: 'Lewis',
       img: 'https://unsplash.com/photos/ILip77SbmOE/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzIwNzY2NjUxfA&force=true&w=640',
       rating: 4,
   

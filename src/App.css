@@ -112,11 +112,13 @@ footer section {
   width:80%;
     margin-left: 10%;
   gap: 20px;
+  background-color: #495e57;
   }
 
 
 footer {
   padding: 20px;
+  
 }
 
 footer img {
@@ -146,4 +148,8 @@ header section {
   display:grid;
   justify-items: center;
 }
+}
+
+.footer_details {
+  
 }
